@@ -1,4 +1,4 @@
-<h1 align="center">Hi �, I'm Mordechai Gerstley</h1>
+<h1 align="center">Hi, I'm Mordechai Gerstley</h1>
 <h3 align="center">I am a senior web & mobile app developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerkai&label=Profile%20views&color=0e75b6&style=flat" alt="gerkai" /> </p>
