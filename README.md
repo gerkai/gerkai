@@ -1,5 +1,5 @@
-#### Hi 👋, I'm Mordechai Gerstley
-##### **React, React Native, Node, Firebase**
+#### Hi, I'm Mordechai Gerstley
+##### **React, Redux, Next, React Native, Swift, Swift UI, Node, Express, Nest, Prisma, Firebase**
 
 [![](https://visitcount.itsvg.in/api?id=gerkai&icon=0&color=9)](https://visitcount.itsvg.in)
 
